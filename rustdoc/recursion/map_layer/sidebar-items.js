@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["MapLayer","Provides the ability to map over some structure ‘Layer’, such that ‘Self’ is ‘Layer’, via a function ‘Fn(Unwrapped) -> B’ producing a value ‘To’ such ‘To’ is ‘Layer’."],["MapLayerRef",""],["Project","Projection into some Layer type - from A to Layer"]]};

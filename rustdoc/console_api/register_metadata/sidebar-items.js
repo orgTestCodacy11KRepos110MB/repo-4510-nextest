@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["NewMetadata","One metadata element registered since the last update."]]};

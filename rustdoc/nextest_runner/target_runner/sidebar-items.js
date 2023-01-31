@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["PlatformRunnerSource","The place where a platform runner’s configuration was picked up from."]],"struct":[["PlatformRunner","A target runner scoped to a specific platform (host or target)."],["TargetRunner","A target runner used to execute a test binary rather than the default of executing natively."]]};

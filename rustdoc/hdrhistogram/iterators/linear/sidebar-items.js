@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Iter","An iterator that will yield at fixed-size steps through the histogram’s value range."]]};

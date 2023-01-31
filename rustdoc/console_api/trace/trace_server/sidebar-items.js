@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["TraceServer","Allows observers to stream trace events for a given `WatchRequest` filter."]],"trait":[["Trace","Generated trait containing gRPC methods that should be implemented for use with TraceServer."]]};

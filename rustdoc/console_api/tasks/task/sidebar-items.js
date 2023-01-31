@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Kind","The category of task this task belongs to."]]};

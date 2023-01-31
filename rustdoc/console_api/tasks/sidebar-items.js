@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["task","Nested message and enum types in `Task`."],["task_details","Nested message and enum types in `TaskDetails`."]],"struct":[["DurationHistogram",""],["Stats","Task performance statistics."],["Task","Data recorded when a new task is spawned."],["TaskDetails","A task details update"],["TaskUpdate","A task state update."]]};

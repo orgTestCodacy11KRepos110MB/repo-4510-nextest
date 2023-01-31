@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ShowTestGroupsMode","Which groups of tests to show."]],"struct":[["ShowTestGroupSettings","Settings for showing test groups."],["ShowTestGroups","Shows sets of tests that are in various groups."],["ValidatedTestGroups","Validated test groups, part of [`ShowTestGroupsMode`]."]]};

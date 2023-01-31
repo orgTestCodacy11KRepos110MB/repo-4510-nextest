@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ReleaseList","`ReleaseList` provides a builder api for querying a gitea repo, returning a `Vec` of available `Release`s"],["ReleaseListBuilder","`ReleaseList` Builder"],["Update","Updates to a specified or latest release distributed via gitea"],["UpdateBuilder","`gitea::Update` builder"]]};

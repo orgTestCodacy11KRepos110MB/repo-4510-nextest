@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["kind","Nested message and enum types in `Kind`."]],"struct":[["Kind","The kind of resource (e.g. timer, mutex)."]]};

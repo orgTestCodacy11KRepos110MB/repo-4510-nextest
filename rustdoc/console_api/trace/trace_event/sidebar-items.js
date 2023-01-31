@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Event","A trace event"]],"struct":[["Close","`Close` signals that a span was closed."],["Enter","`Enter` signals that a span was entered."],["Exit","`Exit` signals that a span was exited."],["RegisterThreads","`RegisterThreads` signals that a new thread was registered."]]};

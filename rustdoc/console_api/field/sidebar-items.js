@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Name","The key of the key-value pair."],["Value","The value of the key-value pair."]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["signal","Operating system signals."],["signalfd","Interface for the `signalfd` syscall."],["sysinfo",""],["time",""],["wait","Wait for a process to change status"]]};

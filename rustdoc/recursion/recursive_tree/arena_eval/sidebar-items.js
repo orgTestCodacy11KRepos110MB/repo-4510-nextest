@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ArenaIndex","Used to mark structures stored in an ‘RecursiveTree<Layer, ArenaIndex>’"]]};

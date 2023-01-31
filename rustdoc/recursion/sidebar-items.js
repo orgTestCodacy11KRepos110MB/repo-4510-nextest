@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["map_layer",""],["recursive","Support for collapsing and expanding recursive structures by repeatedly expanding or collapsing it one layer at a time."],["recursive_tree",""],["stack_machine",""]]};

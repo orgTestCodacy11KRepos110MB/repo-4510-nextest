@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["double_spawn_child_init","Initialization for the double-spawn child."]],"struct":[["DoubleSpawnContext","Context to be used before spawning processes and dropped afterwards."],["DoubleSpawnInfo","Information about double-spawning processes. This determines whether a process will be double-spawned."]]};
